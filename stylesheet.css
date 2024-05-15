@@ -1,0 +1,39 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    
+}
+
+#tarefas{
+    background-color: darkgray;
+}
+
+#inputTarefa{
+    width: 600px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 20px;
+    
+}
+
+#btn-add{
+    width: 100px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+    border-color: black;
+    margin-left: 10px;
+}
+
+.item-nome{
+    align-items: center;
+    width: 550px;
+    height: 30px;
+    background-color: darkseagreen;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 15px;
+    padding: 8px;
+}
+
